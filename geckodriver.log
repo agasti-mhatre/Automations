@@ -1,0 +1,356 @@
+1642222974723	geckodriver	INFO	Listening on 127.0.0.1:65218
+1642222977828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65219" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofilexeQVq9"
+1642222978444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofilexeQVq9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65219/devtools/browser/0e03551f-f605-4afc-a7dc-18afd9728668
+1642222980948	Marionette	INFO	Listening on port 65225
+1642222981043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642222982124	Marionette	INFO	Stopped listening on port 65225
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642223002236	geckodriver	INFO	Listening on 127.0.0.1:65293
+1642223005328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65294" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileItOfi5"
+1642223005720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileItOfi5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65294/devtools/browser/2898e1ac-b927-43a9-b00c-2e66aa185863
+1642223008134	Marionette	INFO	Listening on port 65299
+1642223008561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 2885 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642223015854	Marionette	INFO	Stopped listening on port 65299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642223517648	geckodriver	INFO	Listening on 127.0.0.1:65500
+1642223520785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65501" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileDAuHXj"
+1642223521313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileDAuHXj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65501/devtools/browser/b456c0c4-2f82-4d48-987d-08aec682bdb0
+1642223523462	Marionette	INFO	Listening on port 65506
+1642223524008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 6357 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642223530693	Marionette	INFO	Stopped listening on port 65506
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642223795122	geckodriver	INFO	Listening on 127.0.0.1:58223
+1642223798211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58224" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileAvE5eD"
+1642223798751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileAvE5eD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58224/devtools/browser/0e288389-e911-4703-ab75-202a2e1616e8
+1642223801293	Marionette	INFO	Listening on port 58229
+1642223801423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1642223860071	geckodriver	INFO	Listening on 127.0.0.1:58311
+1642223863192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58312" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileC9hKmR"
+1642223863737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileC9hKmR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58312/devtools/browser/532c292a-fa82-4a40-8138-69854b68e4e0
+1642223866025	Marionette	INFO	Listening on port 58317
+1642223866407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1642223919408	geckodriver	INFO	Listening on 127.0.0.1:58406
+1642223922513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58407" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileohd2xE"
+1642223923049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileohd2xE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58407/devtools/browser/aec72096-84e5-4e21-a944-b64e335481a3
+1642223925390	Marionette	INFO	Listening on port 58412
+1642223925704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 5223 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642224072854	geckodriver	INFO	Listening on 127.0.0.1:58507
+1642224075942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58508" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile9IWnx1"
+1642224076515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile9IWnx1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58508/devtools/browser/4ce4e578-9810-4fd6-8dc4-72960ea420b0
+1642224079583	Marionette	INFO	Listening on port 58513
+1642224079649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1642224174575	geckodriver	INFO	Listening on 127.0.0.1:58598
+1642224177696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58599" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileY2h417"
+1642224178120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileY2h417\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58599/devtools/browser/5930af64-ae60-46e2-b628-9eed8eaa13f5
+1642224180693	Marionette	INFO	Listening on port 58604
+1642224180905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1642285061304	geckodriver	INFO	Listening on 127.0.0.1:59158
+1642285064383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59159" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileOjWQKa"
+1642285064780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileOjWQKa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59159/devtools/browser/67dcfa8f-cf04-45e6-b973-2054439e3b99
+1642285067037	Marionette	INFO	Listening on port 59164
+1642285067544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 1880 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285117962	geckodriver	INFO	Listening on 127.0.0.1:59250
+1642285121040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59251" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile5Xb8Oe"
+1642285121380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile5Xb8Oe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59251/devtools/browser/ff8fa8ac-af5e-45ed-a96a-a6b744d3d762
+1642285123564	Marionette	INFO	Listening on port 59256
+1642285123712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 738 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 1196 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285203536	geckodriver	INFO	Listening on 127.0.0.1:59360
+1642285206659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59361" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile7u8cAM"
+1642285206994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile7u8cAM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59361/devtools/browser/922c58a6-05b3-4144-ab52-755677f22512
+1642285209166	Marionette	INFO	Listening on port 59366
+1642285209338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 6568 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 2050 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285231163	geckodriver	INFO	Listening on 127.0.0.1:59454
+1642285234258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59455" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofilePNdXfJ"
+1642285234584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofilePNdXfJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59455/devtools/browser/a4d0810c-5642-4de5-a81e-137afbb8a521
+1642285236710	Marionette	INFO	Listening on port 59460
+1642285236906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 7656 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 4134 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285289409	geckodriver	INFO	Listening on 127.0.0.1:59554
+1642285292501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59555" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileUPpecC"
+1642285292869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileUPpecC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59555/devtools/browser/5aa18b2d-4fec-4f03-862f-21e9d694cb93
+1642285295038	Marionette	INFO	Listening on port 59560
+1642285295160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 7512 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 3897 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285305741	geckodriver	INFO	Listening on 127.0.0.1:59643
+1642285308844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59644" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile38PtjM"
+1642285309203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile38PtjM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59644/devtools/browser/c20ef4b2-296e-4fd7-93a9-0ad63398b839
+1642285311421	Marionette	INFO	Listening on port 59649
+1642285311558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 4961 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 867 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285369312	geckodriver	INFO	Listening on 127.0.0.1:59932
+1642285372397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59933" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileWHU51K"
+1642285372758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileWHU51K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59933/devtools/browser/592c8591-3828-481f-9e3f-680399aafd04
+1642285374910	Marionette	INFO	Listening on port 59938
+1642285375068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 4810 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 176 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642285655097	geckodriver	INFO	Listening on 127.0.0.1:60471
+1642285658176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60472" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile686bFc"
+1642285658541	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile686bFc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60472/devtools/browser/78322de7-17f7-4728-8e47-37896459b958
+1642285660652	Marionette	INFO	Listening on port 60478
+1642285660886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642285706349	geckodriver	INFO	Listening on 127.0.0.1:60906
+1642285709450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60907" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileUIu1Kg"
+1642285709816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileUIu1Kg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60907/devtools/browser/2ccc04a3-c71c-45d2-9e64-ec2aac03b00f
+1642285711944	Marionette	INFO	Listening on port 60913
+1642285712146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1642286004873	geckodriver	INFO	Listening on 127.0.0.1:56738
+1642286007962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56739" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileMZkFz0"
+1642286008300	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileMZkFz0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56739/devtools/browser/ce97f459-2ee2-4cea-b381-905d9d7140b7
+1642286010481	Marionette	INFO	Listening on port 56745
+1642286010641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 6548 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 1499 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 6499 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 5575 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 7410 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642286024713	Marionette	INFO	Stopped listening on port 56745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642286036749	geckodriver	INFO	Listening on 127.0.0.1:49262
+1642286039828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49263" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileEPhh3l"
+1642286040192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileEPhh3l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49263/devtools/browser/0acf7dbb-53d5-442e-8921-b5eda9a17ad4
+1642286042502	Marionette	INFO	Listening on port 49268
+1642286043042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 3384 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 2983 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 7749 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ze6spFYAGmeX0SVs4uO-WfgikXQwH0dcHguaiLf8sa4.js line 1 > eval line 2683 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+[Child 6080, MediaDecoderStateMachine #1] WARNING: 203f9850040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642286057924	Marionette	INFO	Stopped listening on port 49268
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 15968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642430735938	geckodriver	INFO	Listening on 127.0.0.1:60992
+1642430739078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60993" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile11mJmc"
+1642430739759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile11mJmc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60993/devtools/browser/f392f11b-e366-4a72-ade5-96702ab22f13
+1642430742878	Marionette	INFO	Listening on port 60998
+1642430743300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+1642430825195	geckodriver	INFO	Listening on 127.0.0.1:61143
+1642430828289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61144" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileMlhcWr"
+1642430828899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileMlhcWr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61144/devtools/browser/81f77d92-1c58-4a50-8f45-3174a2a551be
+1642430831164	Marionette	INFO	Listening on port 61149
+1642430831466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 5361 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642430852891	Marionette	INFO	Stopped listening on port 61149
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642430920787	geckodriver	INFO	Listening on 127.0.0.1:57859
+1642430923907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57860" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofiletnJI2L"
+1642430924506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofiletnJI2L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57860/devtools/browser/4adf35f5-3841-4c39-a11d-862617d135ec
+1642430926902	Marionette	INFO	Listening on port 57865
+1642430927118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-9742581f.js, line 3: TypeError: can't convert undefined to object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 1124 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642430988340	geckodriver	INFO	Listening on 127.0.0.1:58046
+1642430991434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58047" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileywYXUK"
+1642430991974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileywYXUK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58047/devtools/browser/2865583e-fab7-4d05-baae-ade4d85951bc
+1642430994504	Marionette	INFO	Listening on port 58053
+1642430994669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-9742581f.js, line 3: TypeError: can't convert undefined to object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 7369 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642431008011	Marionette	INFO	Stopped listening on port 58053
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642431861744	geckodriver	INFO	Listening on 127.0.0.1:57774
+1642431864842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57775" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileEGD8Yo"
+1642431865498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileEGD8Yo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57775/devtools/browser/8ac0e594-c31d-4e68-ab7a-65db2b1bfc4c
+1642431867899	Marionette	INFO	Listening on port 57782
+1642431868105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 6940 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642432013549	geckodriver	INFO	Listening on 127.0.0.1:63546
+1642432016667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63547" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofile3e79j7"
+1642432017174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofile3e79j7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63547/devtools/browser/6a9f9b2d-0c7e-4244-8a48-b21be9a0a942
+1642432019452	Marionette	INFO	Listening on port 63552
+1642432019885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-9742581f.js, line 3: TypeError: can't convert undefined to object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 5879 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642432459339	geckodriver	INFO	Listening on 127.0.0.1:63003
+1642432462438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63004" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileXoL8mV"
+1642432462941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileXoL8mV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63004/devtools/browser/80142cb5-2285-4ae8-aff0-d8df5c214532
+1642432465316	Marionette	INFO	Listening on port 63010
+1642432465684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 1246 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642432479821	Marionette	INFO	Stopped listening on port 63010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642432516642	geckodriver	INFO	Listening on 127.0.0.1:58211
+1642432519734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58212" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileXWbw3h"
+1642432520227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileXWbw3h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58212/devtools/browser/25296aee-7ef6-4d39-82d2-b4fd1bd3b352
+1642432522567	Marionette	INFO	Listening on port 58218
+1642432522958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-9742581f.js, line 3: TypeError: can't convert undefined to object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 5225 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642432668025	geckodriver	INFO	Listening on 127.0.0.1:58409
+1642432671101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58410" "-no-remote" "-profile" "C:\\Users\\AGASTI~1\\AppData\\Local\\Temp\\rust_mozprofileusTs3D"
+1642432671610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Agasti Mhatre\\AppData\\Local\\Temp\\rust_mozprofileusTs3D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58410/devtools/browser/d694357c-31f6-424e-8712-87119a84a09b
+1642432674209	Marionette	INFO	Listening on port 58415
+1642432674281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-9742581f.js, line 3: TypeError: can't convert undefined to object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qOjxjXcXCvgvcs-4P0zsCT9Wg6D8_9jxJtnS_OGjMvI.js line 1 > eval line 7308 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
