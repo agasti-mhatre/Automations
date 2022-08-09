@@ -1,0 +1,3 @@
+This is the first text file.
+It is pretty fire.
+It has three lines.
